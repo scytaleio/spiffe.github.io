@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% if page.type == 'markdown' %}
+<div class="container {{ page.type }}">
+	<div class="row">
+		<div class="col-md-11 nofloat center-block ">
+			<div class="col-sm-12">
+				{{ content }}  
+			</div>
+		</div>
+	</div>
+</div>
+{% else %}
+	{{ content }}
+{% endif %}
