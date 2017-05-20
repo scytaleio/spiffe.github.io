@@ -5,7 +5,7 @@ headline: 'Documentation'
 bodyclass: docs
 type: markdown
 ---
-The SPIFFE project is under active development, and is currently guided by a select [community](/community/) of enterprises who are currently facing the challenges SPIFFE attempts to tackle.
+The SPIFFE project is under active development, and is currently guided by a select [community]({{site.baseurl}}/community/) of enterprises who are currently facing the challenges SPIFFE attempts to tackle.
 
 This page provides an index to the various whitepapers and design documents that have been proposed by the SPIFFE community.
 
