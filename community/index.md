@@ -6,7 +6,6 @@ bodyclass: Community
 headline: 'Community'
 type: markdown
 ---
-
 As an early stage project, SPIFFE is guided by a small but active community of invited design partners. We will be opening up this community more broadly in the coming months.
 
 ## Meetings
