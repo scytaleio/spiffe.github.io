@@ -5,7 +5,6 @@ layout: docs
 title: SPIFFE VSID
 type: markdown
 ---
-
 SPIFFE describes both a API specification for and a reference implementation of a software framework for issuing identities to workloads. A part of the SPIFFE specification must necessarily include (a) an agreed format for naming identities (the “SPIFFE name”), and (b) is a set of documents that may be issued by the SPIFFE framework that can subsequently be used by two independently hosted workloads to mutually verify each other’s identity without a third party. 
 
 These are defined together as the “SPIFFE Verifiable Service Identity Document” (VSID) specification. In practice, the VSID specification describes how SPIFFE names are to be constructed and a specific subset of the X.509 (RFC 5280) specification that should be followed in order to properly encode a SPIFFE name into an X.509 certificate. A system that implements the SPIFFE VSIDs according to this specification is considered a “SPIFFE VSID provider”.
