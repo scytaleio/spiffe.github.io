@@ -15,4 +15,4 @@ From the perspective of a workload, SVIDs allows an unambiguous and best-practic
 
 It should be noted that the SVID specification does not reason directly about how two services might exchange these documents (for example, as part of an mTLS handshake).
 
-The SPIFFE SVID specification is published under active development but [published here](https://docs.google.com/document/d/1kP4Vm0_AJ4ZXPtmKH_nQNtvdydiKNDyX05gXM6fOHV0/view).
+The SPIFFE SVID specification is published under active development but [published here](https://github.com/spiffe/svid).
