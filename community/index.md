@@ -13,8 +13,11 @@ As an early stage project, SPIFFE is guided by a small but active community of i
 ## Meetings
 The SPIFFE community at-large gets together on the last Friday of each calendar month from 10:30-2:00pm PST (Map that to your local time with this [timezone table](https://www.google.com/search?q=1030+am+in+pst)). While such meetings can be attended via video/audio, we encourage community members to join in-person, as well. If you or somebody you know is interested receiving calendar invites for this meeting, please contact [Sunil James](https://twitter.com/sunubunu).
 
+## Stack Overflow
+Ask any questions about SPIFFE using the `spiffe` tag on [Stack Overflow](https://stackoverflow.com/questions/tagged/spiffe).
+
 ## Social Media
-SPIFFE has a burgeoning social media presence. We encourage you to follow our [Twitter](https://twitter.com/SPIFFEio) feed.
+Follow our [Twitter](https://twitter.com/SPIFFEio) feed.
 
 ## Slack
 Most real-time discussions happen within SPIFFE's [Slack channel](https://spiffe.slack.com).
