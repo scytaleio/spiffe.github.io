@@ -8,6 +8,8 @@ type: markdown
 ---
 As an early stage project, SPIFFE is guided by a small but active community of invited design partners. We will be opening up this community more broadly in the coming months.
 
+**Want to get involved? [Learn more](https://docs.google.com/a/scytale.io/forms/d/1dMw-Hv6sOik283JfB7xUUgLuN4ws2AWcDB67cm4BDeA/edit) about becoming a SPIFFE design partner.**
+
 ## Meetings
 The SPIFFE community at-large gets together on the last Friday of each calendar month from 10:30-2:00pm PST (Map that to your local time with this [timezone table](https://www.google.com/search?q=1030+am+in+pst)). While such meetings can be attended via video/audio, we encourage community members to join in-person, as well. If you or somebody you know is interested receiving calendar invites for this meeting, please contact [Sunil James](https://twitter.com/sunubunu).
 
