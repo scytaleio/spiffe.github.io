@@ -41,7 +41,7 @@ While certainly a work in progress, a ton of hard work has already been put into
 - Michael Payne ([LinkedIn](https://www.linkedin.com/in/paynem/))
 - Mike Malone ([LinkedIn](https://www.linkedin.com/in/mmalone) / [Twitter](https://twitter.com/mjmalone))
 - Nathan McCauley ([LinkedIn](https://www.linkedin.com/in/nathanmccauley/) / [Twitter](https://twitter.com/nathanmccauley/))
-- Russ Allbery
+- Russ Allbery ([LinkedIn](https://www.linkedin.com/in/russ-allbery-05862198/))
 - Vipin Jain ([LinkedIn](https://www.linkedin.com/in/vipin-jain-6455b311) / [Twitter](https://twitter.com/jainvipin_))
 
 
