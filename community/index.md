@@ -29,7 +29,7 @@ Development announcements and discussions appear in the following [Google Group]
 SPIFFE is steered by engineers from, among others, Google, Docker, Dropbox, and **[Scytale Inc.](https://www.scytale.io)** (SPIFFE's official maintainer). The broader group is self-organized into Special Interest Groups (SIGs) that coordinate to manage specific aspects of SPIFFE's design. As the project matures and gains traction, we hope to eventually home the project within the governance of an independent foundation, such as the [Cloud Native Computing Foundation](https://cncf.io).
 
 ### **Acknowledgements**
-While certainly a work in progress, a ton of hard work has already been put into breathing life into this initiative. We'd like to acknowldge [Joe Beda]([LinkedIn](https://www.linkedin.com/in/jbeda) / [Twitter](https://twitter.com/jbeda)) for his early work on SPIFFE, as well as his continued support. We'd also like to thank the following individuals (in alphabetical order) for their continued support of SPIFFE:
+While certainly a work in progress, a ton of hard work has already been put into breathing life into this initiative. We'd like to acknowldge Joe Beda ([LinkedIn](https://www.linkedin.com/in/jbeda) / [Twitter](https://twitter.com/jbeda)) for his early work on SPIFFE, as well as his continued support. We'd also like to thank the following individuals (in alphabetical order) for their continued support of SPIFFE:
 
 - Bob Hagemann ([LinkedIn](https://www.linkedin.com/in/bobzilladev))
 - Enrico Schiattarella ([LinkedIn](https://www.linkedin.com/in/enrico-schiattarella))
