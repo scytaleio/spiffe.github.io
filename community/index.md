@@ -31,13 +31,13 @@ SPIFFE is steered by engineers from, among others, Google, Docker, Dropbox, and 
 ### **Acknowledgements**
 While certainly a work in progress, a ton of hard work has already been put into breathing life into this initiative. We'd like to acknowldge [Joe Beda]([LinkedIn](https://www.linkedin.com/in/jbeda) / [Twitter](https://twitter.com/jbeda)) for his early work on SPIFFE, as well as his continued support. We'd also like to thank the following individuals (in alphabetical order) for their continued support of SPIFFE:
 
-- [Bob Hagemann]([LinkedIn](https://www.linkedin.com/in/bobzilladev))
-- [Enrico Schiattarella]([LinkedIn](https://www.linkedin.com/in/enrico-schiattarella))
-- [JJ Jeyappragash]([LinkedIn](https://www.linkedin.com/in/pragashjj) / [Twitter](https://twitter.com/pragashjj))
-- [Louis Ryan]([LinkedIn](https://www.linkedin.com/in/louis-ryan-2a8408) / [Twitter](https://twitter.com/louiscryan))
-- [Mark Lakewood]([LinkedIn](https://www.linkedin.com/in/marklakewood))
-- [Michael Payne]([LinkedIn](https://www.linkedin.com/in/paynem/))
-- [Vipin Jain]([LinkedIn](https://www.linkedin.com/in/vipin-jain-6455b311) / [Twitter](https://twitter.com/jainvipin_))
+- Bob Hagemann ([LinkedIn](https://www.linkedin.com/in/bobzilladev))
+- Enrico Schiattarella ([LinkedIn](https://www.linkedin.com/in/enrico-schiattarella))
+- JJ Jeyappragash ([LinkedIn](https://www.linkedin.com/in/pragashjj) / [Twitter](https://twitter.com/pragashjj))
+- Louis Ryan ([LinkedIn](https://www.linkedin.com/in/louis-ryan-2a8408) / [Twitter](https://twitter.com/louiscryan))
+- Mark Lakewood ([LinkedIn](https://www.linkedin.com/in/marklakewood))
+- Michael Payne ([LinkedIn](https://www.linkedin.com/in/paynem/))
+- Vipin Jain ([LinkedIn](https://www.linkedin.com/in/vipin-jain-6455b311) / [Twitter](https://twitter.com/jainvipin_))
 
 
 [blog]: http://blog.spiffe.io
