@@ -9,10 +9,11 @@ The SPIFFE project is under active development, and is guided by a select [commu
 
 This page provides an index to various documents that have been proposed by these developers.
 
- - [SPIFFE whitepaper](https://docs.google.com/document/d/1GjurNK2ROw4rXz-k-l68JtpGRkGj2fZcWqP6gksEriQ/edit#heading=h.pq1kki84bhak): SPIFFE's original proposal, as first presented at GlueCon 2016.
-     - Test Message
+ - The [SPIFFE whitepaper](https://docs.google.com/document/d/1GjurNK2ROw4rXz-k-l68JtpGRkGj2fZcWqP6gksEriQ) is SPIFFE's original proposal, as first presented at [GlueCon 2016](http://gluecon.com).
+     - **_(March 2016, not under active development)_**
 
- - (May 2017, under active development) [SPIFFE VID specification](https://github.com/spiffe/svid): a detailed specification for the [SPIFFE Verifiable Identity Document]({{site.baseurl}}/docs/vsid/), a combination of naming format, X.509 certificate format and set of trusted root bundles. This allows two bundles with a common trust root to securely identify each other.
+ - The [SPIFFE VID (SVID)](https://github.com/spiffe/svid) is a detailed specification for the [SPIFFE Verifiable Identity Document]({{site.baseurl}}/docs/vsid/), which itself is a combination of naming format, X.509 certificate format, and set of trusted root bundles. This allows two (2) bundles with a common trust root to securely identify each other.
+      - (May 2017, under active development) 
 
 - (May 2017, under active development, access limited to SPIFFE Design Partners) [The SPIFFE Workload API specification](https://docs.google.com/document/d/1iGuvDYh2534rnepSTkcKYpjFBAq5JrXmq6qdAP-8vyA/edit): a detailed specification that outlines what APIs must be made available to a workload to be considered “spiffe compatible”. The workload API includes the ability to provision SPIFFE VSIDs.
 
