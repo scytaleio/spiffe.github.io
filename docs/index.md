@@ -13,6 +13,7 @@ This page provides an index to various documents that have been proposed by thes
      - **_(March 2016, not under active development)_**
 
 
+
  - The [SPIFFE VID (SVID)](https://github.com/spiffe/svid) is a detailed specification for the [SPIFFE Verifiable Identity Document]({{site.baseurl}}/docs/vsid/), which itself is a combination of naming format, X.509 certificate format, and set of trusted root bundles. This allows two (2) bundles with a common trust root to securely identify each other.
      - **_(May 2017, under active development)_**
       
