@@ -11,7 +11,7 @@ As an early stage project, SPIFFE is guided by a small but very active community
 **Want to get involved? [Learn more](https://goo.gl/forms/4fJOQ3HdM4M3L27r1) about becoming a SPIFFE design partner.**
 
 ### **Meetings**
-The SPIFFE community at-large gathers on the last Friday of each calendar month from 10:30-2:00pm PST (Map that to your local time with this [timezone table](https://www.google.com/search?q=1030+am+in+pst)). While such meetings can be attended via video/audio, we encourage community members to join in-person, as well. If you or somebody you know is interested receiving calendar invites for this meeting, please complete [this form](https://goo.gl/forms/4fJOQ3HdM4M3L27r1).
+The SPIFFE community at-large gathers on the last Friday of each calendar month from 10:30-2:00pm PST (Map that to your local time with this [timezone table](https://www.google.com/search?q=1030+am+in+pst)). While such meetings can be attended via video/audio, we encourage community members to join in-person, as well. If you or somebody you know is interested in receiving calendar invites for this meeting, please complete [this form](https://goo.gl/forms/4fJOQ3HdM4M3L27r1).
 
 ### **Stack Overflow**
 Ask questions about SPIFFE using the `spiffe` tag on [Stack Overflow](https://stackoverflow.com/questions/tagged/spiffe).
@@ -41,6 +41,7 @@ While certainly a work in progress, a ton of hard work has already been put into
 - Michael Payne ([LinkedIn](https://www.linkedin.com/in/paynem/))
 - Mike Malone ([LinkedIn](https://www.linkedin.com/in/mmalone) / [Twitter](https://twitter.com/mjmalone))
 - Nathan McCauley ([LinkedIn](https://www.linkedin.com/in/nathanmccauley/) / [Twitter](https://twitter.com/nathanmccauley/))
+- Russ Allbery
 - Vipin Jain ([LinkedIn](https://www.linkedin.com/in/vipin-jain-6455b311) / [Twitter](https://twitter.com/jainvipin_))
 
 
