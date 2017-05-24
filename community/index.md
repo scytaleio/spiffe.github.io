@@ -32,6 +32,7 @@ SPIFFE is steered by engineers from, among others, Google, Docker, Dropbox, and 
 While certainly a work in progress, a ton of hard work has already been put into breathing life into this initiative. We'd like to acknowldge Joe Beda ([LinkedIn](https://www.linkedin.com/in/jbeda) / [Twitter](https://twitter.com/jbeda)) for his early work on SPIFFE, as well as his continued support. We'd also like to thank the following individuals (in alphabetical order) for their continued support of SPIFFE:
 
 - Bob Hagemann ([LinkedIn](https://www.linkedin.com/in/bobzilladev))
+- Diogo Monica ([LinkedIn](https://www.linkedin.com/in/diogomonica) / [Twitter](https://twitter.com/diogomonica))
 - Enrico Schiattarella ([LinkedIn](https://www.linkedin.com/in/enrico-schiattarella))
 - JJ Jeyappragash ([LinkedIn](https://www.linkedin.com/in/pragashjj) / [Twitter](https://twitter.com/pragashjj))
 - Jon Debonis ([LinkedIn](https://www.linkedin.com/in/jondb))
@@ -40,8 +41,8 @@ While certainly a work in progress, a ton of hard work has already been put into
 - Mark Lakewood ([LinkedIn](https://www.linkedin.com/in/marklakewood))
 - Michael Payne ([LinkedIn](https://www.linkedin.com/in/paynem/))
 - Mike Malone ([LinkedIn](https://www.linkedin.com/in/mmalone) / [Twitter](https://twitter.com/mjmalone))
-- Nathan McCauley ([LinkedIn](https://www.linkedin.com/in/nathanmccauley/) / [Twitter](https://twitter.com/nathanmccauley/))
-- Russ Allbery ([LinkedIn](https://www.linkedin.com/in/russ-allbery-05862198/))
+- Nathan McCauley ([LinkedIn](https://www.linkedin.com/in/nathanmccauley) / [Twitter](https://twitter.com/nathanmccauley))
+- Russ Allbery ([LinkedIn](https://www.linkedin.com/in/russ-allbery-05862198))
 - Vipin Jain ([LinkedIn](https://www.linkedin.com/in/vipin-jain-6455b311) / [Twitter](https://twitter.com/jainvipin_))
 
 
