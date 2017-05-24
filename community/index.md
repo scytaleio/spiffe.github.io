@@ -6,14 +6,14 @@ bodyclass: Community
 headline: 'Community'
 type: markdown
 ---
-As an early stage project, SPIFFE is guided by a small but active community of invited design partners. We will be opening up this community more broadly in the coming months.
+As an early stage project, SPIFFE is guided by a small but very active community of passionate software engineers with empathy for the problems the project will tackle. We will be opening up this community more broadly in the coming few months.
 
 **Want to get involved? [Learn more](https://goo.gl/forms/4fJOQ3HdM4M3L27r1) about becoming a SPIFFE design partner.**
 
-## Meetings
+#### Meetings
 The SPIFFE community at-large gets together on the last Friday of each calendar month from 10:30-2:00pm PST (Map that to your local time with this [timezone table](https://www.google.com/search?q=1030+am+in+pst)). While such meetings can be attended via video/audio, we encourage community members to join in-person, as well. If you or somebody you know is interested receiving calendar invites for this meeting, please contact [Sunil James](https://twitter.com/sunubunu).
 
-## Stack Overflow
+### Stack Overflow
 Ask any questions about SPIFFE using the `spiffe` tag on [Stack Overflow](https://stackoverflow.com/questions/tagged/spiffe).
 
 ## Social Media
