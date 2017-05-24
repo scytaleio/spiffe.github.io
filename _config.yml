@@ -5,7 +5,7 @@ kramdown:
 markdown:
   kramdown
 
-baseurl: /spiffe.github.io
+baseurl: 
 
 githuburl: https://github.com/spiffe/spiffe.github.io/
 
