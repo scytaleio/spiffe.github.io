@@ -34,6 +34,7 @@ While certainly a work in progress, a ton of hard work has already been put into
 - Bob Hagemann ([LinkedIn](https://www.linkedin.com/in/bobzilladev))
 - Enrico Schiattarella ([LinkedIn](https://www.linkedin.com/in/enrico-schiattarella))
 - JJ Jeyappragash ([LinkedIn](https://www.linkedin.com/in/pragashjj) / [Twitter](https://twitter.com/pragashjj))
+- Jon Debonis ([LinkedIn](https://www.linkedin.com/in/jondb))
 - Louis Ryan ([LinkedIn](https://www.linkedin.com/in/louis-ryan-2a8408) / [Twitter](https://twitter.com/louiscryan))
 - Mark Carter ([LinkedIn](https://www.linkedin.com/in/markcartertm) / [Twitter](https://twitter.com/markcartertm))
 - Mark Lakewood ([LinkedIn](https://www.linkedin.com/in/marklakewood))
