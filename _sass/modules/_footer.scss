@@ -88,6 +88,12 @@ footer {
       font-size: .8em;
     }
 
+    p.description {
+      a {
+        font-weight: 400;
+      }
+    }
+
     @media (min-width: 768px) {
       position: relative;
       margin: 0 auto;
