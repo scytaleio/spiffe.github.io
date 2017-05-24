@@ -28,7 +28,7 @@ Development announcements and discussions appear in the following [Google Group]
 ### **Project Governance**
 SPIFFE is steered by engineers from Google, Docker, Dropbox, and Twillio (among others). This committee is organized into Special Interest Groups (SIGs) that coordinate to manage specific aspects of SPIFFE's design. 
 
-**[Scytale Inc.](https://www.scytale.io)** serves as the official maintainer of the SPIFFE project, and provides all of its logistical support. As the project matures and gains traction, we hope to eventually home the project within the governance of an independent foundation, such as the [Cloud Native Computing Foundation](https://cncf.io).
+**[Scytale Inc.](https://www.scytale.io)** serves as the project's official maintainer, and provides all of its logistical support. As the project matures and gains traction, we hope to eventually home the project within the governance of an independent foundation, such as the [Cloud Native Computing Foundation](https://cncf.io).
 
 [blog]: http://blog.spiffe.io
 [calendar.google.com]: https://calendar.google.com/calendar/todo
