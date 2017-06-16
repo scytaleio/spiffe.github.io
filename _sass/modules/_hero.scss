@@ -1,6 +1,29 @@
+// Background for landing page
+.landing-hero-container {
+  background: url('../img/spiffe-bg.png') repeat center/cover; 
+  z-index: 9010;
+  position: absolute;
+  width: 100%;
+  @media (min-width: 767px) {
+     height: 100%;
+  }
+
+  footer {
+    position: fixed;
+    bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+    @media (max-width: 767px) {
+      position: relative;
+    }
+  }
+}
+
 // Background for nav and hero
 .nav-hero-container {
-  background: url('../img/spiffe-bg.png') no-repeat center/cover; 
+  background: url('../img/spiffe-bg.png') repeat center/cover; 
   z-index: 9010;
   position: relative;
 }
