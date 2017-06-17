@@ -4,22 +4,31 @@
   z-index: 9010;
   position: absolute;
   width: 100%;
+
+  // When landing page gets big, make sure that the splash screen fills it
   @media (min-width: 767px) {
      height: 100%;
   }
 
   footer {
-    @media (min-height: 800px) {
+    // When landing page gets big, float footer and pin to bottom of screen
+    @media (min-height: 800px) and (min-width: 767px) {
       position: fixed;
     }
     bottom: 50px;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
+  }
+}
 
-    @media (max-width: 767px) {
-      position: relative;
-    }
+// When landing page gets big, center the SPIFFE logo and tagline
+@media (min-height: 800px) and (min-width: 767px) {
+  .landing-hero-container > .hero > .container {
+    position: fixed;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
   }
 }
 
