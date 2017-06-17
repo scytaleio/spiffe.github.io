@@ -9,7 +9,9 @@
   }
 
   footer {
-    position: fixed;
+    @media (min-height: 800px) {
+      position: fixed;
+    }
     bottom: 50px;
     margin-left: auto;
     margin-right: auto;
