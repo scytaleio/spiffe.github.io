@@ -8,25 +8,25 @@ type: markdown
 ---
 As an early stage project, SPIFFE is guided by a small but very active community of passionate software engineers with empathy for the problems the project will tackle. We will be opening up this community more broadly in the coming few months.
 
-**Want to get involved? [Learn more](https://goo.gl/forms/4fJOQ3HdM4M3L27r1) about becoming a SPIFFE design partner.**
-
-### **Meetings**
-The SPIFFE community at-large gathers on the last Friday of each calendar month from 10:30-2:00pm PST (Map that to your local time with this [timezone table](https://www.google.com/search?q=1030+am+in+pst)). While such meetings can be attended via video/audio, we encourage community members to join in-person, as well. If you or somebody you know is interested in receiving calendar invites for this meeting, please complete [this form](https://goo.gl/forms/4fJOQ3HdM4M3L27r1).
-
 ### **Stack Overflow**
 Ask questions about SPIFFE using the `spiffe` tag on [Stack Overflow](https://stackoverflow.com/questions/tagged/spiffe).
 
-### **Social Media**
-Follow us on [Twitter](https://twitter.com/SPIFFEio).
-
 ### **Slack**
-Most real-time discussions happen within SPIFFE's [Slack channel](https://spiffe.slack.com).
+Most real-time discussions happen within SPIFFE's [Slack channel](https://spiffe.slack.com). You can join [here](https://slack.spiffe.io).
 
 ### **Mailing Lists**
-Development announcements and discussions appear in the following [Google Group](https://groups.google.com/a/spiffe.io/forum/#!forum/dev-discussion) (send e-mail to `dev-discussion@spiffe.io`).
+Announcements occur in the following [Google Group](https://groups.google.com/a/spiffe.io/forum/#!forum/announce).
+There is also a [users](https://groups.google.com/a/spiffe.io/forum/#!forum/user-discussion)
+and [developers](https://groups.google.com/a/spiffe.io/forum/#!forum/dev-discussion) list.
+
+### **Special Interest Groups**
+The broader SPIFFE community is self-organized into Special Interest Groups (SIGs) that coordinate to manage specific aspects of SPIFFE's design. A list of active SIGs can be found [here](https://github.com/spiffe/spiffe/tree/master/community).
 
 ### **Project Governance**
-SPIFFE is steered by engineers from, among others, Google, Docker, Dropbox, and **[Scytale Inc.](https://www.scytale.io)** (SPIFFE's official maintainer). The broader group is self-organized into Special Interest Groups (SIGs) that coordinate to manage specific aspects of SPIFFE's design. As the project matures and gains traction, we hope to eventually home the project within the governance of an independent foundation, such as the [Cloud Native Computing Foundation](https://cncf.io).
+SPIFFE is steered by engineers from, among others, Google, Docker, Dropbox, and **[Scytale Inc.](https://www.scytale.io)**. Project governance details can be found [here](https://github.com/spiffe/spiffe/blob/master/GOVERNANCE.md)
+
+### **Social Media**
+Follow us on [Twitter](https://twitter.com/SPIFFEio).
 
 ### **Acknowledgements**
 While certainly a work in progress, a ton of hard work has already been put into breathing life into this initiative. We'd like to acknowldge Joe Beda ([LinkedIn](https://www.linkedin.com/in/jbeda) / [Twitter](https://twitter.com/jbeda)) for his early work on SPIFFE, as well as his continued support. We'd also like to thank the following individuals (in alphabetical order) for their continued support of SPIFFE:
