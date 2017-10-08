@@ -1,19 +1,38 @@
-kramdown:
-  input: GFM
-  hard_wrap: false
+title: spiffe.io
+email: hello@spiffe.io
+description: >
+  Secure Production Identity Framework for Everyone
 
-markdown:
-  kramdown
+url: https://spiffe.io
 
-baseurl: 
+bootswatch: spiffe
+markdown: kramdown
+highlighter: rouge
+timezone: America/Los_Angeles
+git_edit_address: https://github.com/spiffe/spiffe.github.io/tree/master
+git_address: https://github.com/spiffe
 
-githuburl: https://github.com/spiffe/spiffe.github.io/
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-sass:
-  style: compressed
-  
-paginate: 2
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - README.md
 
-paginate_path: "/blog/page:num/"
+defaults:
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
 
-excerpt_separator: <!--more-->
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true

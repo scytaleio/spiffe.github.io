@@ -1,4 +1,110 @@
 ---
-layout: landing
-title: spiffe.io
+layout: default
 ---
+
+<div class="header-container jumbotron">
+	<div class="container">
+		<h1>Secure Production Identity Framework for Everyone</h1>
+		<p>
+
+		Inspired by Google and others, SPIFFE is a set of
+		open-source standards for securely identifying
+		software systems in dynamic and heterogeneous
+		production environments
+
+		
+		</p>
+	</div>
+</div>
+<div class="container">
+	<div class="row" style="display: flex; align-items: center;">
+		<div class="col-md-10">
+			<h2 class="header-light regular-pad">What is SPIFFE?</h2>
+			<p>
+
+			SPIFFE (Secure Production Identity Framework
+			For Everyone) provides a secure identity,
+			in the form of a specially crafted x509
+			certificate, to every workload in a modern
+			production environment. SPIFFE removes the
+			need for application-level authentication
+			and authorization and complex network-level
+			ACL configuration.
+
+			</p>
+			<p><a class="btn btn-primary btn-sm" href="{{ "/spiffe/" | prepend: site.baseurl }}" role="button">Learn More</a></p>
+		</div>
+		<div class="col-md-2 hidden-sm hidden-xs">
+			<img class="img-responsive center-block" style="width: 80%; height: auto" src="img/spiffe-logo-color-basic.svg" alt="SPIFFE">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-12">
+			<hr>
+		</div>
+	</div>
+	<div class="row" style="display: flex; align-items: center;">
+		<div class="col-md-10">
+			<h2 class="header-light regular-pad">What is SPIRE?</h2>
+			<p>
+
+			SPIRE, the SPIFFE Runtime Environment, is
+			an extensible system that implements the
+			principles embodied in the SPIFFE standards.
+			SPIRE manages platform and workload
+			attestation, provides an API for controlling
+			attestation policies, and coordinates
+			certificate issuance and rotation.
+
+			</p>
+			<p><a class="btn btn-primary btn-sm" href="{{ "/spire/" | prepend: site.baseurl }}" role="button">Learn More</a></p>
+		</div>
+		<div class="col-md-2 hidden-sm hidden-xs">
+			<img class="img-responsive center-block" style="width: 80%; height: auto" src="img/spire-logo-color-basic.svg" alt="SPIRE">
+		</div>
+	</div>
+	<hr>
+
+	<div class="row">
+		<div class="col-sm-6">
+			<h3 class="text-left">Project information</h3>
+			<p>
+			The SPIFFE standards are the result of a number of
+			<a href="https://www.cncf.io/">CNCF</a> participants and other
+			interested parties coming together to propose a common method for
+			services to present and authorize their identities to one another.
+
+			</p><p>
+			SPIRE is still in its early implementation
+			stages and not yet ready for production
+			deployment - you can help out by
+			<a href="/community">contributing.</a>
+			The work on SPIRE is being coordinated by
+			the employees of <a href="https://scytale.io">Scytale.</a>
+
+			</p><p>
+			All SPIFFE standards and SPIRE components
+			are available under the
+			<a href="https://www.apache.org/licenses/LICENSE-2.0">
+			Apache 2.0 license.</a>
+
+			</p>
+		</div> <div class="col-sm-6">
+			<h3 class="text-left">Getting started</h3>
+			<p>
+			If you're new to SPIFFE and SPIRE, take a
+			look at their overviews <a href="/spiffe">here</a>
+			and <a href="/spire">here</a>.
+
+			</p><p>
+			If you're interested in extending SPIRE or
+			would like to contribute to its development,
+			check out the <a href="/community">
+			community pages.</a>
+
+			</p>
+		</div>
+	</div>
+</div>
+

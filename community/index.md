@@ -6,30 +6,52 @@ bodyclass: Community
 headline: 'Community'
 type: markdown
 ---
-As an early stage project, SPIFFE is guided by a small but very active community of passionate software engineers with empathy for the problems the project will tackle. We will be opening up this community more broadly in the coming few months.
 
-### **Stack Overflow**
-Ask questions about SPIFFE using the `spiffe` tag on [Stack Overflow](https://stackoverflow.com/questions/tagged/spiffe).
+# Community
 
-### **Slack**
-Most real-time discussions happen within SPIFFE's [Slack channel](https://spiffe.slack.com). You can join [here](https://slack.spiffe.io).
+As an early stage project, SPIFFE is guided by a small but very
+active community of passionate software engineers with empathy for
+the problems the project will tackle. We will be opening up this
+community more broadly in the coming few months.
 
-### **Mailing Lists**
-Announcements occur in the following [Google Group](https://groups.google.com/a/spiffe.io/forum/#!forum/announce).
+## Contributing
+
+* [SPIFFE contribution guidelines](https://github.com/spiffe/spiffe/blob/master/CONTRIBUTING.md)
+* [SPIRE contribution guidelines](https://github.com/spiffe/spire/blob/master/CONTRIBUTING.md)
+
+## Connecting with SPIFFE and SPIRE
+
+* **Slack** Most real-time discussions happen within SPIFFE's [Slack
+channel](https://spiffe.slack.com). You can join [here](https://slack.spiffe.io).
+* **Mailing Lists** Announcements occur in the following
+[Google Group](https://groups.google.com/a/spiffe.io/forum/#!forum/announce).
 There is also a [users](https://groups.google.com/a/spiffe.io/forum/#!forum/user-discussion)
 and [developers](https://groups.google.com/a/spiffe.io/forum/#!forum/dev-discussion) list.
+*  **Special Interest Groups** The broader SPIFFE community is
+self-organized into Special Interest Groups (SIGs) that coordinate
+to manage specific aspects of SPIFFE's design. A list of active
+SIGs can be found
+[here](https://github.com/spiffe/spiffe/tree/master/community).
+* **Social Media** Follow us on [Twitter](https://twitter.com/SPIFFEio).
 
-### **Special Interest Groups**
-The broader SPIFFE community is self-organized into Special Interest Groups (SIGs) that coordinate to manage specific aspects of SPIFFE's design. A list of active SIGs can be found [here](https://github.com/spiffe/spiffe/tree/master/community).
 
-### **Project Governance**
-SPIFFE is steered by engineers from, among others, Google, Docker, Dropbox, and **[Scytale Inc.](https://www.scytale.io)**. Project governance details can be found [here](https://github.com/spiffe/spiffe/blob/master/GOVERNANCE.md)
+## Project Governance
 
-### **Social Media**
-Follow us on [Twitter](https://twitter.com/SPIFFEio).
+SPIFFE is steered by engineers from, among others, Google, Docker,
+Dropbox, and **[Scytale](https://www.scytale.io)**. Project governance
+details can be found
+[here.](https://github.com/spiffe/spiffe/blob/master/GOVERNANCE.md)
 
-### **Acknowledgements**
-While certainly a work in progress, a ton of hard work has already been put into breathing life into this initiative. We'd like to acknowldge Joe Beda ([LinkedIn](https://www.linkedin.com/in/jbeda) / [Twitter](https://twitter.com/jbeda)) for his early work on SPIFFE, as well as his continued support. We'd also like to thank the following individuals (in alphabetical order) for their continued support of SPIFFE:
+
+## Acknowledgements
+
+While certainly a work in progress, a ton of hard work has already
+been put into breathing life into this initiative. The project would
+like to acknowldge Joe Beda ([LinkedIn](https://www.linkedin.com/in/jbeda)
+/ [Twitter](https://twitter.com/jbeda)) for his early work on SPIFFE,
+as well as his continued support. Credit is also due to the
+following individuals (in alphabetical order) for their continued
+support of SPIFFE:
 
 - Bob Hagemann ([LinkedIn](https://www.linkedin.com/in/bobzilladev))
 - Diogo Monica ([LinkedIn](https://www.linkedin.com/in/diogomonica) / [Twitter](https://twitter.com/diogomonica))
@@ -45,13 +67,3 @@ While certainly a work in progress, a ton of hard work has already been put into
 - Russ Allbery ([LinkedIn](https://www.linkedin.com/in/russ-allbery-05862198))
 - Vipin Jain ([LinkedIn](https://www.linkedin.com/in/vipin-jain-6455b311) / [Twitter](https://twitter.com/jainvipin_))
 
-
-[blog]: http://blog.spiffe.io
-[calendar.google.com]: https://calendar.google.com/calendar/todo
-[CNCF code of conduct]: https://github.com/cncf/foundation/blob/master/code-of-conduct.md
-[Communication]: https://github.com/spiffe/community/blob/master/communication.md
-[community meeting]: https://github.com/spiffe/community/blob/master/communication.md#weekly-meeting
-[events]: https://TODO
-[file an issue]: https://github.com/spiffe/spiffe/issues/new
-[spiffe.slack.com]: http://spiffe.slack.com
-[Twitter]: https://twitter.com/spiffeio
