@@ -1,13 +1,20 @@
----
-layout: base
----
+<!DOCTYPE html>
+<html>
 
-{% include sticky-nav.html %}
+{% include head.html %}
 
-<div class="nav-hero-container">
-	{% include nav.html %}
-</div>
+<body>
 
-{{ content }}
+    {% include topnav.html %}
 
-{% include footer.html %}
+    <div class="page-content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </div>
+
+    {% include footer.html %}
+    {% include js_files.html %}
+</body>
+
+</html>

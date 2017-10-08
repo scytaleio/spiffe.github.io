@@ -1,0 +1,11 @@
+- title: SPIFFE
+  docs:
+  - svid
+- title: SPIRE
+  docs:
+  - overview
+  - quick-start
+  - building
+  - spire-server
+  - spire-agent
+
