@@ -46,5 +46,5 @@ is:
 * [Secure Production Identity Framework for Everyone (SPIFFE)](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE.md)
 * [The SPIFFE Identity and Verifiable Identity Document](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE-ID.md)
 * [The X.509 SPIFFE Verifiable Identity Document](https://github.com/spiffe/spiffe/blob/master/standards/X509-SVID.md)
-* The Workload API (TBD)
+* [The Workload API](https://github.com/spiffe/spiffe/blob/master/standards/SPIFFE_Workload_API.md)
 
