@@ -81,5 +81,6 @@ matches any of the attestation policies it was issued.
 
 ## SPIRE Resources
 
+* [SPIRE Getting Started Guide](https://spiffe.netlify.com/spire/getting-started/)
 * [The SPIRE repository on GitHub](https://github.com/spiffe/spire)
 * [The original SRI (now SPIRE) design document](https://docs.google.com/document/d/1RZnBfj8I5xs8Yi_BPEKBRp0K3UnIJYTDg_31rfTt4j8)
